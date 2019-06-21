@@ -15,7 +15,7 @@ namespace ReflectionJIT
 
         public Alumno()
         {
-
+            // yep!
         }
         public Alumno(int IdAlumno,string Nombre,string Apellidos,string Dni)
         {
